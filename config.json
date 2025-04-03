@@ -1,0 +1,12 @@
+{
+    "api_url": "https://api.siliconflow.cn/v1/chat/completions",
+    "api_key": "sk-xnjwczaqgfzeamrkhffgcgfhepnehxnzbkufhwtzyefprrla",
+    "model_name": "Pro/deepseek-ai/DeepSeek-V3",
+    "chat_api_url": "https://api.openai-hk.com/v1/chat/completions",
+    "chat_api_key": "hk-pbhh1810000396749dc5a82821583eeca82f83d463dee5e9",
+    "chat_model_name": "gpt-3.5-turbo",
+    "default_paths": {
+        "gpt_path": "H:\\GPT-SoVITS-v2-240821\\GPT_weights_v2",
+        "sovits_path": "H:\\GPT-SoVITS-v2-240821\\SoVITS_weights_v2"
+    }
+}
